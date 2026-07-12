@@ -1,4 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let usePlayground = 'hello world';
+export {};
 //# sourceMappingURL=play.js.map

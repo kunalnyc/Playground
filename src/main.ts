@@ -1,7 +1,7 @@
 //first typescript code 
 // defining usernames
 
-let username =  'kunalk'
+let username =  'kunal kumar'
 console.log(username)
 
 let a = 12
