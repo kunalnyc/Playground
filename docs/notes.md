@@ -2,3 +2,4 @@ Using the defer in javascript or trypscript in html allow the browser to parse t
 
 # Type script is stronglly typed languages
  
+let album: string | number; // we can assing type as union with | where it can hold both the assigned typed 
