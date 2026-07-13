@@ -6,5 +6,10 @@ stringUsernames.push('Kunal');
 Ids[0] = 19;
 Ids.unshift('Rockstar');
 Ids = stringUsernames;
+let emptyArray = [];
+let clubs = [];
+clubs.push('Manchester United');
+//tuples
+let tupele = ['Ancilia', 22, true];
 export {};
 //# sourceMappingURL=session02.js.map

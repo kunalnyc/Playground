@@ -10,3 +10,11 @@ Ids[0] = 19;
 Ids.unshift('Rockstar');
 
 Ids = stringUsernames;
+
+let emptyArray = [];
+let clubs: string[] = [];
+
+clubs.push('Manchester United');
+
+//tuples
+let tupele: [string, number, boolean] = ['Ancilia', 22, true]
