@@ -18,3 +18,7 @@ clubs.push('Manchester United');
 
 //tuples
 let tupele: [string, number, boolean] = ['Ancilia', 22, true]
+
+let mixed = ['Ancilia', 22, true, 'Kunal', 23, false]
+
+tupele[2] = false
