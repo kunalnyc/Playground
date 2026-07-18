@@ -11,5 +11,11 @@ let clubs = [];
 clubs.push('Manchester United');
 //tuples
 let tupele = ['Ancilia', 22, true];
+let mixed = ['Ancilia', 22, true, 'Kunal', 23, false];
+tupele[2] = false;
+//objects
+let myObj;
+myObj = [];
+console.log(typeof myObj);
 export {};
 //# sourceMappingURL=session02.js.map
