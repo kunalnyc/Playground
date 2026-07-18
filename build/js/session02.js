@@ -24,5 +24,10 @@ const user = {
     username: 'Ancilia',
     isActive: true
 };
+if (user.userID == 2)
+    user.isActive = false;
+console.log(user.username);
+console.log(user.userID);
+console.log(user.isActive);
 export {};
 //# sourceMappingURL=session02.js.map

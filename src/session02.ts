@@ -34,7 +34,14 @@ myObj = {}
 myObj = mixed
 
 const user = {
-  userID: 1,
-  username: 'Ancilia',
-  isActive: true
+    userID: 1,
+    username: 'Ancilia',
+    isActive: true
 }
+
+if (user.userID == 2)
+    user.isActive = false
+
+console.log(user.username)
+console.log(user.userID)
+console.log(user.isActive)
