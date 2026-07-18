@@ -29,3 +29,12 @@ let myObj: object
 myObj = []
 
 console.log(typeof myObj)
+
+myObj = {}
+myObj = mixed
+
+const user = {
+  userID: 1,
+  username: 'Ancilia',
+  isActive: true
+}
