@@ -45,3 +45,21 @@ if (user.userID == 2)
 console.log(user.username)
 console.log(user.userID)
 console.log(user.isActive)
+
+ type Users = {
+    username: string,
+    userID: number,
+    isActive: boolean
+ }
+
+ let kids: Users =  {
+    username: 'maya',
+    userID: 2,
+    isActive: true
+ }
+
+ let teens: Users =  {
+    username: 'emma',
+    userID: 3,
+    isActive: true
+ }

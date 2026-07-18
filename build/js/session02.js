@@ -29,5 +29,15 @@ if (user.userID == 2)
 console.log(user.username);
 console.log(user.userID);
 console.log(user.isActive);
+let kids = {
+    username: 'maya',
+    userID: 2,
+    isActive: true
+};
+let teens = {
+    username: 'emma',
+    userID: 3,
+    isActive: true
+};
 export {};
 //# sourceMappingURL=session02.js.map
